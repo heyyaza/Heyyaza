@@ -4,7 +4,7 @@ Hi, I’m Yaza! I’m a high school student in France, interested in graphic des
 
 ### Projects
 
-As you can see, there aren’t a lot of repositories on my page… well, actually, it’s because all of them are still in private or hidden deep down inside my computer! But don’t worry, I’m currently working on those projects, and soon, you’ll start seeing things like websites or problem solvers, mostly in Python and JavaScript (with its comrades HTML and CSS, of course!).
+As you can see, there aren’t a lot of repositories on my page… well, actually, it’s because all of them are still in private or hidden deep down inside my computer! But don’t worry, I’m currently working on those projects, and soon, you’ll start seeing things like websites and problem solvers, mostly in Python and JavaScript (with its comrades HTML and CSS, of course!).
 
 I did do some projects in NSI class (« Numérique et Science Informatique », an equivalent of Computer Science) the past year, and I’ll upload them as soon as I get the go-ahead from my project partner!
 
